@@ -1,0 +1,121 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #f7f7f7;
+  color: #000000;
+  background-image: url("../public/fondo2.jpg");
+}
+
+.container {
+  padding: 20px;
+}
+
+/* Estilos para el Navbar */
+.navbar {
+  background-color: #871c24;
+} /* App.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  color: #000000;
+  margin: 0; /* Añade margen cero para el cuerpo del documento */
+}
+
+.container {
+  padding: 20px;
+  max-width: 1200px; /* Limita el ancho máximo del contenedor */
+  margin: 0 auto; /* Centra el contenedor horizontalmente */
+}
+
+/* Estilos para el Navbar */
+.navbar {
+  background-color: #871c24;
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: #ffffff;
+}
+
+/* Estilos para las secciones */
+.section {
+  padding: 50px 0;
+}
+
+/* Ajusta el espaciado entre secciones */
+.section:not(:last-child) {
+  margin-bottom: 40px; /* Espaciado entre secciones */
+}
+
+.section h2 {
+  color: #871c24;
+}
+
+/* Estilos para el Footer */
+.footer {
+  background-color: #871c24;
+  color: #ffffff;
+  padding: 20px 0;
+  margin-top: 40px; /* Añade espacio entre el contenido y el footer */
+}
+
+.instagram-icon {
+  color: #ffe3cb;
+  cursor: pointer;
+}
+
+/* Estilos para el botón */
+.btn-primary {
+  background-color: #871c24;
+  border-color: #871c24;
+}
+
+.btn-primary:hover {
+  background-color: #000000;
+  border-color: #000000;
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: #ffffff;
+}
+
+/* Estilos para las secciones */
+/* App.css */
+/* App.css */
+.section {
+  padding: 50px 0;
+}
+
+/* App.css */
+.divider {
+  border-top: 1px solid #871c24; /* Establece el estilo de la línea divisoria */
+  margin: 20px auto; /* Añade margen superior e inferior para espaciar las secciones */
+  width: 80%; /* Establece el ancho de la línea divisoria */
+}
+
+.section h2 {
+  color: #871c24;
+}
+
+/* Estilos para el Footer */
+.footer {
+  background-color: #871c24;
+  color: #ffffff;
+  padding: 20px 0;
+}
+
+.instagram-icon {
+  color: #ffe3cb;
+  cursor: pointer;
+}
+
+/* Estilos para el botón */
+.btn-primary {
+  background-color: #871c24;
+  border-color: #871c24;
+}
+
+.btn-primary:hover {
+  background-color: #000000;
+  border-color: #000000;
+}

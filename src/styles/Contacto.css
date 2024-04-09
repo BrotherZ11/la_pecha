@@ -1,0 +1,25 @@
+/* Contacto.css */
+
+/* Estilos para las secciones */
+#contacto {
+  padding: 50px 0;
+}
+
+#contacto h2 {
+  color: #871c24;
+}
+
+#contacto p {
+  color: #000;
+}
+
+/* Estilos para los iconos */
+#contacto p svg {
+  margin-right: 10px; /* Ajusta el espacio entre el icono y el texto */
+}
+
+/* Estilos para las líneas divisorias */
+#contacto hr {
+  border-top: 1px solid #871c24; /* Establece el estilo de la línea divisoria */
+  margin: 10px 0; /* Ajusta el espacio entre las líneas divisorias y el texto */
+}
